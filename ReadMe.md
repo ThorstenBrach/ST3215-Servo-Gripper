@@ -1,4 +1,4 @@
-# Servo Gripper DIY
+# ST3215 Servo Gripper
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/ThorstenBrach/ST3215-Servo-Gripper?style=for-the-badge)](https://github.com/ThorstenBrach/ST3215-Servo-Gripper/commits/main)
 [![GitHub issues](https://img.shields.io/github/issues/ThorstenBrach/ST3215-Servo-Gripper?style=for-the-badge)](https://github.com/ThorstenBrach/ST3215-Servo-Gripper/issues)
@@ -30,7 +30,7 @@
 
 [Zur Sprachauswahl](#language-selection)
 
-Kompakter, kraftvoller Servo-Greifer zum Selberbauen mit 3D-Druckteilen, STEP-Modell, detaillierter Montageanleitung und kompletter Materialliste.
+Kompakter, kraftvoller ST3215 Servo Gripper zum Selberbauen mit 3D-Druckteilen, STEP-Modell, detaillierter Montageanleitung und kompletter Materialliste.
 
 ### Inhaltsverzeichnis
 
@@ -54,7 +54,7 @@ Kompakter, kraftvoller Servo-Greifer zum Selberbauen mit 3D-Druckteilen, STEP-Mo
 
 | Thema | Details |
 |---|---|
-| Projekttyp | DIY Servo-Greifer |
+| Projekttyp | ST3215 Servo Gripper |
 | Mechanik | 3D-gedruckte Baugruppen + Linearfuehrung MGN7H |
 | Aktorik | Waveshare ST3215 Serial Bus Servo |
 | CAD | STEP-Modell verfuegbar |
@@ -68,6 +68,10 @@ Kompakter, kraftvoller Servo-Greifer zum Selberbauen mit 3D-Druckteilen, STEP-Mo
 - Gesamtansicht: [Overview.mp4](./Video/Overview.mp4)
 - Krafttest: [Force.mp4](./Video/Force.mp4)
 - Anwendung mit Flasche: [Beer Bottle.mp4](./Video/Beer%20Bottle.mp4)
+
+![ST3215 Servo Gripper Overview GIF](./Video/Overview.gif)
+![ST3215 Servo Gripper Force Test GIF](./Video/Force.gif)
+![ST3215 Servo Gripper Beer Bottle GIF](./Video/Beer%20Bottle.gif)
 
 <a id="de-ordner"></a>
 
@@ -173,7 +177,7 @@ MIT — siehe [LICENSE](./LICENSE)
 
 [Back to language selection](#language-selection)
 
-Compact, high-torque DIY servo gripper with 3D-printed parts, STEP model, detailed assembly guide, and complete bill of materials.
+Compact, high-torque ST3215 Servo Gripper with 3D-printed parts, STEP model, detailed assembly guide, and complete bill of materials.
 
 ### Table of Contents
 
@@ -197,7 +201,7 @@ Compact, high-torque DIY servo gripper with 3D-printed parts, STEP model, detail
 
 | Topic | Details |
 |---|---|
-| Project Type | DIY Servo Gripper |
+| Project Type | ST3215 Servo Gripper |
 | Mechanics | 3D-printed assemblies + MGN7H linear rail |
 | Actuation | Waveshare ST3215 serial bus servo |
 | CAD | STEP model available |
@@ -211,6 +215,10 @@ Compact, high-torque DIY servo gripper with 3D-printed parts, STEP model, detail
 - Full overview: [Overview.mp4](./Video/Overview.mp4)
 - Force test: [Force.mp4](./Video/Force.mp4)
 - Bottle handling demo: [Beer Bottle.mp4](./Video/Beer%20Bottle.mp4)
+
+![ST3215 Servo Gripper Overview GIF](./Video/Overview.gif)
+![ST3215 Servo Gripper Force Test GIF](./Video/Force.gif)
+![ST3215 Servo Gripper Beer Bottle GIF](./Video/Beer%20Bottle.gif)
 
 <a id="en-folders"></a>
 

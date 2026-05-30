@@ -1,4 +1,4 @@
-# Materialliste / Bill of Materials
+# ST3215 Servo Gripper Bill of Materials
 
 <a id="language-selection"></a>
 
@@ -15,7 +15,7 @@
 
 [Zur Sprachauswahl](#language-selection)
 
-Komplette Teileliste fuer den Servo Gripper inkl. Mengen, Richtpreisen und Bezugsquellen.
+Komplette Teileliste fuer den ST3215 Servo Gripper inkl. Mengen, Richtpreisen und Bezugsquellen.
 
 ### Mechanik und Elektronik
 
@@ -77,7 +77,7 @@ MIT — siehe [LICENSE](../LICENSE) | Änderungshistorie: [CHANGELOG.md](../CHAN
 
 [Back to language selection](#language-selection)
 
-Complete bill of materials for the servo gripper including quantities, estimated prices, and supplier links.
+Complete bill of materials for the ST3215 Servo Gripper including quantities, estimated prices, and supplier links.
 
 ### Mechanics and Electronics
 

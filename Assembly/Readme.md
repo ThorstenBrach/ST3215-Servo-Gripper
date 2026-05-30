@@ -1,4 +1,4 @@
-# Servo Gripper Assembly Guide
+# ST3215 Servo Gripper Assembly Guide
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/ThorstenBrach/ST3215-Servo-Gripper?style=for-the-badge)](https://github.com/ThorstenBrach/ST3215-Servo-Gripper/commits/main)
 [![GitHub repo size](https://img.shields.io/github/repo-size/ThorstenBrach/ST3215-Servo-Gripper?style=for-the-badge)](https://github.com/ThorstenBrach/ST3215-Servo-Gripper)
@@ -6,9 +6,9 @@
 [![GitHub stars](https://img.shields.io/github/stars/ThorstenBrach/ST3215-Servo-Gripper?style=for-the-badge)](https://github.com/ThorstenBrach/ST3215-Servo-Gripper/stargazers)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](../LICENSE)
 
-> Detaillierte Montageanleitung für den Servo Gripper.
+> Detaillierte Montageanleitung für den ST3215 Servo Gripper.
 >
-> Detailed assembly manual for the servo gripper.
+> Detailed assembly manual for the ST3215 Servo Gripper.
 
 ---
 
@@ -48,7 +48,7 @@
 
 | Thema | Details |
 |---|---|
-| Projekt | Servo Gripper |
+| Projekt | ST3215 Servo Gripper |
 | Schwierigkeit | Mittel |
 | Zeitbedarf | ca. 30 min |
 | Version der Anleitung | v1.0 |
@@ -410,7 +410,7 @@ MIT — siehe [LICENSE](../LICENSE)
 
 | Topic | Details |
 |---|---|
-| Project | Servo Gripper |
+| Project | ST3215 Servo Gripper |
 | Difficulty | Medium |
 | Assembly Time | About 30 min |
 | Guide Version | v1.0 |

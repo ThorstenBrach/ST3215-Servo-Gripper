@@ -1,4 +1,4 @@
-# Software
+# ST3215 Servo Gripper Software
 
 <a id="language-selection"></a>
 
