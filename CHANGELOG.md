@@ -10,6 +10,12 @@ Versioning: [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 ## [1.0.3] — 2026-05-30
 
 ### Changed
+- Removed an unnecessary file
+- Renamed Final.jpg to Final.JPG, so that it will no be displayed in the readme.md 
+
+## [1.0.2] — 2026-05-30
+
+### Changed
 - Added animated GIF previews for the demo videos in the main README.
 - Standardized the project naming in the README files to ST3215 Servo Gripper.
 
