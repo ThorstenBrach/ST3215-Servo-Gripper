@@ -7,10 +7,15 @@ Versioning: [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 
 ---
 
+## [1.0.4] — 2026-05-30
+
+### Changed
+- Renamed Tools.jpg to Tools.JPG, so that it will no be displayed in the readme.md 
+
 ## [1.0.3] — 2026-05-30
 
 ### Changed
-- Removed an unnecessary file
+- Removed vlc-help.txt file which was accidentally added
 - Renamed Final.jpg to Final.JPG, so that it will no be displayed in the readme.md 
 
 ## [1.0.2] — 2026-05-30

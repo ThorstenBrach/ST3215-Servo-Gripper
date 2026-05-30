@@ -20,7 +20,7 @@
 - English: [Jump to English version](#en-start)
 
 ![Servo Gripper Overview](./Assembly/Overview.JPG)
-![Servo Gripper Final](./Assembly/Final.jpg)
+![Servo Gripper Final](./Assembly/Final.JPG)
 
 ---
 
