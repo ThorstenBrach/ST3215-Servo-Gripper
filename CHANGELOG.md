@@ -7,6 +7,17 @@ Versioning: [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 
 ---
 
+## [1.0.6] — 2026-05-30
+
+### Changed
+- enlarge counterbores in turning head by 0.5 mm
+
+
+## [1.0.5] — 2026-05-30
+
+### Changed
+- Modified Final.JPG and Tools.JPG, so that git recognized a change and I am now able to push the changes
+
 ## [1.0.4] — 2026-05-30
 
 ### Changed
