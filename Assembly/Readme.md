@@ -5,6 +5,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/ThorstenBrach/ST3215-Servo-Gripper?style=for-the-badge)](https://github.com/ThorstenBrach/ST3215-Servo-Gripper/issues)
 [![GitHub stars](https://img.shields.io/github/stars/ThorstenBrach/ST3215-Servo-Gripper?style=for-the-badge)](https://github.com/ThorstenBrach/ST3215-Servo-Gripper/stargazers)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](../LICENSE)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=ERN6VH9WA95J6)
 
 > Detaillierte Montageanleitung für den ST3215 Servo Gripper.
 >
@@ -381,6 +382,8 @@ MIT — siehe [LICENSE](../LICENSE)
 
 [Zur Sprachauswahl](#language-selection)
 
+[![Donate with PayPal](https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)](https://www.paypal.com/donate/?hosted_button_id=ERN6VH9WA95J6)
+
 ---
 
 <a id="en-start"></a>
@@ -745,3 +748,5 @@ Contributions improving images, wording, sequence, and safety notes are welcome.
 MIT — see [LICENSE](../LICENSE)
 
 [Back to language selection](#language-selection)
+
+[![Donate with PayPal](https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)](https://www.paypal.com/donate/?hosted_button_id=ERN6VH9WA95J6)

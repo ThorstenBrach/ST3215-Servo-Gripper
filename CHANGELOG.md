@@ -6,6 +6,10 @@ Format: [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 Versioning: [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 
 ---
+## [1.0.7] — 2026-06-04
+
+### Changed
+- Added donate button and badges
 
 ## [1.0.6] — 2026-05-30
 

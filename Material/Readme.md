@@ -69,6 +69,8 @@ MIT — siehe [LICENSE](../LICENSE) | Änderungshistorie: [CHANGELOG.md](../CHAN
 
 [Zur Sprachauswahl](#language-selection)
 
+[![Donate with PayPal](https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)](https://www.paypal.com/donate/?hosted_button_id=ERN6VH9WA95J6)
+
 ---
 
 <a id="en-start"></a>
@@ -130,3 +132,5 @@ Notes:
 MIT — see [LICENSE](../LICENSE) | Change history: [CHANGELOG.md](../CHANGELOG.md)
 
 [Back to language selection](#language-selection)
+
+[![Donate with PayPal](https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)](https://www.paypal.com/donate/?hosted_button_id=ERN6VH9WA95J6)

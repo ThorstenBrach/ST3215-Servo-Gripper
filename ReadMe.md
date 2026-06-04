@@ -11,6 +11,7 @@
 [![Software](https://img.shields.io/badge/Software-In%20Development-orange?style=for-the-badge)](./Software/Readme.md)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](./LICENSE)
 [![Changelog](https://img.shields.io/badge/Changelog-Keep%20a%20Changelog-blueviolet?style=for-the-badge)](./CHANGELOG.md)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=ERN6VH9WA95J6)
 
 <a id="language-selection"></a>
 
@@ -169,6 +170,8 @@ MIT — siehe [LICENSE](./LICENSE)
 
 [Zur Sprachauswahl](#language-selection)
 
+[![Donate with PayPal](https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)](https://www.paypal.com/donate/?hosted_button_id=ERN6VH9WA95J6)
+
 ---
 
 <a id="en-start"></a>
@@ -315,3 +318,6 @@ All versions and changes: [CHANGELOG.md](./CHANGELOG.md)
 MIT — see [LICENSE](./LICENSE)
 
 [Back to language selection](#language-selection)
+
+
+[![Donate with PayPal](https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)](https://www.paypal.com/donate/?hosted_button_id=ERN6VH9WA95J6)
