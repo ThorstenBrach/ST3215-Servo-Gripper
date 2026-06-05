@@ -5,6 +5,16 @@ All notable changes to this project will be documented in this file.
 Format: [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 Versioning: [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 
+## [1.0.8] — 2026-06-05
+
+### Changed
+- Corrected some scew lengths in BOM list ( bill of material )
+- Corrected the depth for the hex holes in the base plate, so that a M2x20 screw can be screwed in - before the screw was to short
+- Corrected the hole diameter of the 4 flange holes ( it is now for M3 heat inserts instead of M4 heat inserts)
+- Corrected the hight of the swingarms
+- Updated STL Files accordingly
+- Updated STP File accordingly
+
 ---
 ## [1.0.7] — 2026-06-04
 

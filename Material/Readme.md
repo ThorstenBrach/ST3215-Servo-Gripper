@@ -49,7 +49,7 @@ Hinweis: Bei der Linearfuehrung die richtige Variante (MGN7H, 150 mm, 2 Wagen) a
 | Menge | Bauteil | Richtpreis | Bezugsquelle |
 |---|---|---:|---|
 | 5x | M4 x 6 mm Madenschrauben | ca. 1,00 EUR | [Link](https://amzn.eu/d/0i7jxMsC) |
-| 6x | M4 x 12 mm Senkkopfschrauben | ca. 1,00 EUR | [Link](https://amzn.eu/d/064vVVUk) |
+| 6x | M4 x 16 mm Senkkopfschrauben | ca. 1,00 EUR | [Link](https://amzn.eu/d/064vVVUk) |
 | 4x | M4 Muttern | ca. 1,00 EUR | [Link](https://amzn.eu/d/0hZBuBmF) |
 | 2x | M4 Gewindeeinsaetze (Einschmelzmutter) | ca. 1,00 EUR | [Link](https://amzn.eu/d/07s2j5aE) |
 
