@@ -17,11 +17,22 @@
 
 ### Status
 
-> **In Entwicklung** — Dedizierte Software für diesen Greifer befindet sich aktuell in Planung.
+> **In Entwicklung** — Die ESP32-Firmware für den TcpIp_Server ist bereits vorhanden und dokumentiert: [ESP32/Readme.md](ESP32/Readme.md)
 > Geplante Implementierungen:
 >
 > - **Python** — Direkte Steuerung über den Waveshare Serial Bus Servo Driver
 > - **IEC 61131-3 (Structured Text)** — Einbindung in SPS-Steuerungen (PLC)
+
+### ESP32-Firmware
+
+Der aktuelle Stand der ESP32-Firmware liegt im Ordner [ESP32/TcpIp_Server](ESP32/TcpIp_Server) und ist in [ESP32/Readme.md](ESP32/Readme.md) beschrieben.
+
+Die Dokumentation enthält:
+
+- benötigte Arduino-Pakete
+- verwendete Ports und Pinbelegung
+- TCP-Befehle inklusive Beispielaufrufen
+- kurze Hinweise zur Weboberfläche
 
 ---
 
@@ -165,11 +176,22 @@ MIT — siehe [LICENSE](../LICENSE) | Änderungshistorie: [CHANGELOG.md](../CHAN
 
 ### Status
 
-> **Work in progress** — Dedicated software for this gripper is currently in planning.
+> **Work in progress** — The ESP32 firmware for the TcpIp_Server already exists and is documented here: [ESP32/Readme.md](ESP32/Readme.md)
 > Planned implementations:
 >
 > - **Python** — Direct control via the Waveshare Serial Bus Servo Driver
 > - **IEC 61131-3 (Structured Text)** — Integration into PLC controllers
+
+### ESP32 firmware
+
+The current ESP32 firmware lives in [ESP32/TcpIp_Server](ESP32/TcpIp_Server) and is documented in [ESP32/Readme.md](ESP32/Readme.md).
+
+The documentation includes:
+
+- required Arduino packages
+- used ports and pin mapping
+- TCP commands with example usage
+- brief web UI notes
 
 ---
 

@@ -5,6 +5,26 @@ All notable changes to this project will be documented in this file.
 Format: [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 Versioning: [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 
+## [1.0.9] — 2026-06-24
+
+### Added
+- Added ESP32 Arduino firmware project (`Software/ESP32/TcpIp_Server`) for servo control via web UI and TCP/IP server.
+- Added DIN rail holder CAD/STL assets to project documentation:
+	- `Step/DIN Rail Holder Serial Board.step`
+	- `STL/DIN Rail Holder Serial Board.stl`
+	- `Assembly/DIN Rail Holder.jpeg`
+- Added dedicated ESP32 documentation in `Software/ESP32/Readme.md`.
+
+### Changed
+- Updated `ReadMe.md` (DE/EN) to include DIN rail holder image preview and links for the new STEP/STL files.
+- Updated `Software/Readme.md` (DE/EN) with a direct reference to the ESP32 firmware documentation.
+- Expanded `Software/ESP32/Readme.md` with:
+	- fixed, tested Arduino package/library version set
+	- explicit separation of USB serial monitor baud (`115200`) and servo UART baud (`1000000`)
+	- TCP/IP server command reference and usage examples
+
+---
+
 ## [1.0.8] — 2026-06-05
 
 ### Changed
