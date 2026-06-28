@@ -5,6 +5,19 @@ All notable changes to this project will be documented in this file.
 Format: [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 Versioning: [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 
+## [1.0.10] — 2026-06-28
+
+### Added
+- Added SO-ARM-101 compatible motorhousing STL files:
+	- `STL/Motorhousing SO-ARM-101.stl`
+
+- Added `STL/Motorhousing Cover with Handle.stl`
+- Added cam holder STL file: `STL/Cam Holder.stl`
+- Added DIN rail ESP32 adapter STL file: `STL/DIN Rail Holder ESP32 Adapter.stl`
+- Added SO-ARM-101 assembly preview image: `Assembly/SO-Arm-101.jpeg`
+
+---
+
 ## [1.0.9] — 2026-06-24
 
 ### Added
@@ -20,8 +33,6 @@ Versioning: [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 - Updated `Software/Readme.md` (DE/EN) with a direct reference to the ESP32 firmware documentation.
 - Expanded `Software/ESP32/Readme.md` with:
 	- fixed, tested Arduino package/library version set
-	- explicit separation of USB serial monitor baud (`115200`) and servo UART baud (`1000000`)
-	- TCP/IP server command reference and usage examples
 
 ---
 

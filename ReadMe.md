@@ -23,6 +23,7 @@
 ![Servo Gripper Overview](./Assembly/Overview.JPG)
 ![Servo Gripper Final](./Assembly/Final.JPG)
 ![DIN Rail Holder](./Assembly/DIN%20Rail%20Holder.jpeg)
+![SO-ARM-101 Motorhousing](./Assembly/SO-Arm-101.jpeg)
 
 ---
 
@@ -99,11 +100,15 @@ Kompakter, kraftvoller ST3215 Servo Gripper zum Selberbauen mit 3D-Druckteilen, 
 ### 3D-Dateien (STL)
 
 - [Baseplate.stl](./STL/Baseplate.stl)
+- [Cam Holder.stl](./STL/Cam%20Holder.stl)
 - [DIN Rail Holder Serial Board.stl](./STL/DIN%20Rail%20Holder%20Serial%20Board.stl)
+- [DIN Rail Holder ESP32 Adapter.stl](./STL/DIN%20Rail%20Holder%20ESP32%20Adapter.stl)
 - [Finger_1.stl](./STL/Finger_1.stl)
 - [Finger_2.stl](./STL/Finger_2.stl)
 - [Motorhousing.stl](./STL/Motorhousing.stl)
 - [Motorhousing Cover.stl](./STL/Motorhousing%20Cover.stl)
+- [Motorhousing Cover with Handle.stl](./STL/Motorhousing%20Cover%20with%20Handle.stl)
+- [Motorhousing SO-ARM-101.stl](./STL/Motorhousing%20SO-ARM-101.stl)
 - [Schwing Arm 1.stl](./STL/Schwing%20Arm%201.stl)
 - [Schwing Arm 2.stl](./STL/Schwing%20Arm%202.stl)
 - [Turnhead.stl](./STL/Turnhead.stl)
@@ -250,11 +255,15 @@ Compact, high-torque ST3215 Servo Gripper with 3D-printed parts, STEP model, det
 ### 3D Files (STL)
 
 - [Baseplate.stl](./STL/Baseplate.stl)
+- [Cam Holder.stl](./STL/Cam%20Holder.stl)
 - [DIN Rail Holder Serial Board.stl](./STL/DIN%20Rail%20Holder%20Serial%20Board.stl)
+- [DIN Rail Holder ESP32 Adapter.stl](./STL/DIN%20Rail%20Holder%20ESP32%20Adapter.stl)
 - [Finger_1.stl](./STL/Finger_1.stl)
 - [Finger_2.stl](./STL/Finger_2.stl)
 - [Motorhousing.stl](./STL/Motorhousing.stl)
 - [Motorhousing Cover.stl](./STL/Motorhousing%20Cover.stl)
+- [Motorhousing Cover with Handle.stl](./STL/Motorhousing%20Cover%20with%20Handle.stl)
+- [Motorhousing SO-ARM-101.stl](./STL/Motorhousing%20SO-ARM-101.stl)
 - [Schwing Arm 1.stl](./STL/Schwing%20Arm%201.stl)
 - [Schwing Arm 2.stl](./STL/Schwing%20Arm%202.stl)
 - [Turnhead.stl](./STL/Turnhead.stl)
