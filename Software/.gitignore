@@ -1,0 +1,22 @@
+# Python virtual environments
+.venv/
+.venv312/
+venv/
+venv312/
+env/
+
+# RustyPot build artifacts
+rustypot-1.4.2/
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environment files
+.env
+
+# Rust build artifacts
+target/

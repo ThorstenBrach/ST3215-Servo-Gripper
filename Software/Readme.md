@@ -15,12 +15,15 @@
 
 [Zur Sprachauswahl](#language-selection)
 
-### Status
+### Projektstatus
 
 > **In Entwicklung** — Die ESP32-Firmware für den TcpIp_Server ist bereits vorhanden und dokumentiert: [ESP32/Readme.md](ESP32/Readme.md)
-> Geplante Implementierungen:
+> Bereits vorhanden:
 >
-> - **Python** — Direkte Steuerung über den Waveshare Serial Bus Servo Driver
+> - **Python TCP/IP Bridge** — Anbindung an das Waveshare Serial Bus Servo Driver Board über `rustypot`
+>
+> Weiter geplant:
+>
 > - **IEC 61131-3 (Structured Text)** — Einbindung in SPS-Steuerungen (PLC)
 
 ### ESP32-Firmware
@@ -33,6 +36,16 @@ Die Dokumentation enthält:
 - verwendete Ports und Pinbelegung
 - TCP-Befehle inklusive Beispielaufrufen
 - kurze Hinweise zur Weboberfläche
+
+### Python TCP/IP Bridge (Deutsch)
+
+Zusätzlich zur ESP32-Firmware gibt es bereits ein Python-Beispiel als TCP/IP-Bridge zum Waveshare Serial Bus Servo Driver Board. Die Bridge nimmt TCP-Kommandos entgegen und steuert die Servos seriell über `rustypot`.
+
+Enthalten sind:
+
+- ein TCP-Command-Server
+- ein einfacher Test-Client
+- eine separate Setup- und Protokoll-Dokumentation unter [Python TcpIp Bridge/README.md](Python%20TcpIp%20Bridge/README.md)
 
 ---
 
@@ -146,13 +159,7 @@ fn main() {
 
 ---
 
-### Geplante eigene Implementierungen
-
-#### Python (geplant)
-
-- Einfache Steuerungsklasse speziell für diesen Greifer
-- Positions- und Kraftsteuerung
-- Beispiel-Skripte für typische Greifaufgaben
+### Weitere geplante Implementierungen
 
 #### IEC 61131-3 Structured Text (geplant)
 
@@ -174,12 +181,15 @@ MIT — siehe [LICENSE](../LICENSE) | Änderungshistorie: [CHANGELOG.md](../CHAN
 
 [Back to language selection](#language-selection)
 
-### Status
+### Project Status
 
 > **Work in progress** — The ESP32 firmware for the TcpIp_Server already exists and is documented here: [ESP32/Readme.md](ESP32/Readme.md)
-> Planned implementations:
+> Already available:
 >
-> - **Python** — Direct control via the Waveshare Serial Bus Servo Driver
+> - **Python TCP/IP Bridge** — connection to the Waveshare Serial Bus Servo Driver board via `rustypot`
+>
+> Still planned:
+>
 > - **IEC 61131-3 (Structured Text)** — Integration into PLC controllers
 
 ### ESP32 firmware
@@ -192,6 +202,16 @@ The documentation includes:
 - used ports and pin mapping
 - TCP commands with example usage
 - brief web UI notes
+
+### Python TCP/IP Bridge (English)
+
+In addition to the ESP32 firmware, there is already a Python example that acts as a TCP/IP bridge to the Waveshare Serial Bus Servo Driver board. The bridge accepts TCP commands and controls the servos over a serial connection via `rustypot`.
+
+It includes:
+
+- a TCP command server
+- a simple test client
+- separate setup and protocol documentation in [Python TcpIp Bridge/README.md](Python%20TcpIp%20Bridge/README.md)
 
 ---
 
@@ -305,13 +325,7 @@ fn main() {
 
 ---
 
-### Planned Implementations
-
-#### Python (planned)
-
-- Lightweight control class specifically for this gripper
-- Position and force control
-- Example scripts for common gripping tasks
+### Further Planned Implementations
 
 #### IEC 61131-3 Structured Text (planned)
 

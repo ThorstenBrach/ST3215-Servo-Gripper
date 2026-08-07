@@ -1,0 +1,4 @@
+# Global OS/editor artifacts
+Thumbs.db
+.DS_Store
+.vscode/

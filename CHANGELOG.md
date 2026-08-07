@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 Format: [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 Versioning: [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 
+## [1.0.11] — 2026-08-07
+
+### Added
+- Added a Python TCP/IP bridge example that enables remote control of a USB-connected servo board over TCP/IP.
+
+
+
 ## [1.0.10] — 2026-06-28
 
 ### Added
